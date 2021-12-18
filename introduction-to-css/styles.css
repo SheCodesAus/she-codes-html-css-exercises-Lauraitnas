@@ -44,6 +44,8 @@ nav {
     padding: 10px;
     background-color: #999999;
     width: 20em;
+    display: block;
+    align-items: center;
 }
 
 a {
@@ -80,6 +82,8 @@ footer {
 
 nav a {
     display: block;
+    align-items: center;
+
 }
 
 #cupcake-home {
